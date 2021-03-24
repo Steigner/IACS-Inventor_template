@@ -10,7 +10,7 @@ Main purpose of this repository is allow good base for customization inventor te
 ### Integration part
 Follow the steps to integrate into Inventor(save-go):
 1) download - ```git clone https://github.com/Steigner/IACS-Inventor_template.git```
-2) open *Template_IACS* //can be use .iwd, .dwg
+2) open *Template_IACS* //can be used .iwd, .dwg
 3) save as template to e.g. *../Inventor/Templates/en-US/..*
 4) restart Inventor
 5) designe component -> new -> and u are ready to create tech. documenatation
@@ -21,6 +21,10 @@ Follow the steps to integrate into Inventor(save-go):
 * Sketch symbols - Total roughness[set in iTrigger], Unmachined, Edges[set in iTrigger] </p>
 * Title blocks - ÚAI, IACS
 * After save drawing, scale will be add
+
+<p align="center">
+  <img src="docs/iTrigger.PNG" />
+</p>
 
 ### Modification part
 If u want just modifed logo in title block documentation, follow:
