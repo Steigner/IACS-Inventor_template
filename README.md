@@ -40,6 +40,6 @@ In this original template is 2 title block language options[czech/english], but 
 8) save&run
 9) Forms -> right click on Edit -> find new rule, and drag&drop it to form -> OK
 
-On that note can be added additional features by personal needs e.g. bill of materials, various calculations. If you find any bug or inexactitude please leave issue comment. If you like it, hit star button and forked into your new project. 
+On that note can be added additional features by personal needs e.g. bill of materials, various calculations. If you find any bug or any inexactitude please leave issue comment. If you like it, hit star button and forked into your new project. 
 
 ### Sources
