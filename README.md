@@ -1,12 +1,11 @@
 ![plot](docs/UAI.png)
 
 ### IACS-Inventor template
-**This is IACS non-official inventor template!** 
+**This is [IACS](https://uai.fme.vutbr.cz/en/) non-official inventor template!** 
 
 ### Introduction
 
-<p align="justify"> Main purpose of this repository is allow good base for customization inventor template. Template is created and modifed from originaly IMID template, but contain only basics features, more specifics features must be programmed by your taste and needs.
-</p>
+Main purpose of this repository is allow good base for customization inventor template. Template is created and modifed from originaly [IMID](http://www.ustavkonstruovani.cz/en/) template, but contain only basics features, more specifics features must be programmed by your taste and needs.
 
 ### Integration part
 Follow the steps to integrate into Inventor(save-go):
@@ -18,8 +17,9 @@ Follow the steps to integrate into Inventor(save-go):
 
 ### Functions
 #### v1.0
-* iTrigger - In iTrigger can be add Title, Part number, Material, Mass(on my oppinion is better by this way), Half-finished, Assembly, Preccision, Author, Approved by, Document type, 
-* 
+* <p align="justify"> iTrigger - In iTrigger can be set Title, Part number, Material, Mass, Half-finished, Assembly, Preccision, Internal edges, External edges, Author, Approved by, Document type, Set title block. lang.[cz/en], Total roughness[0.012-6.3], Sheet format[A0-A4].
+* Sketch symbols - Total roughness[set in iTrigger], Unmachined, Edges[set in iTrigger] </p>
+* Title blocks - ÚAI, IACS
 
 ### Modification part
 If u want just modifed logo in title block documentation, follow:
@@ -41,8 +41,10 @@ In this original template is 2 title block language options[czech/english], but 
 ```
 
 8) save&run
-9) Forms -> right click on Edit -> find new rule, and drag&drop it to form -> OK
+9) Forms -> right click on Edit -> find new rule, and drag&drop into form -> OK
 
-On that note can be added additional features by personal needs e.g. bill of materials, various calculations. If you find any bug or any inexactitude please leave issue comment. If you like it, hit star button and forked into your new project. 
+On that note can be added additional features by personal needs e.g. bill of materials, auto-caulcation mass and various calculations. If you find any bug or any inexactitude please leave issue comment. If you like it, hit star button and forked into your new project. 
 
-### Sources
+### References
+* [original template IMID](https://www.facebook.com/UstavKonstruovani/videos/pro-nový-akademický-rok-jsme-pro-vás-připravili-aktualizovanou-verzi-šablony-pro/381084085905940/)
+* [Faculty of Mechanical Engineering BUT](https://www.fme.vutbr.cz/en)
