@@ -17,6 +17,9 @@ Follow the steps to integrate into Inventor(save-go):
 5) designe component -> new -> and u are ready to create tech. documenatation
 
 ### Functions
+#### v1.0
+* iTrigger - In iTrigger can be add Title, Part number, Material, Mass(on my oppinion is better by this way), Half-finished, Assembly, Preccision, Author, Approved by, Document type, 
+* 
 
 ### Modification part
 If u want just modifed logo in title block documentation, follow:
