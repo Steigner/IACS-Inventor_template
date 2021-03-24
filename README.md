@@ -48,6 +48,8 @@ In this original template is 2 title block language options[czech/english], but 
 8) save&run
 9) Forms -> right click on Edit -> find new rule, and drag&drop into form -> OK
 
+Note: Rules are functions in **Visual Basic**
+
 On that note can be added additional features by personal needs e.g. bill of materials, auto-caulcation mass and various calculations. If you find any bug or any inexactitude please leave issue comment. If you like it, hit star button and forked into your new project. 
 
 ### References
