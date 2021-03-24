@@ -1,4 +1,4 @@
-![plot](docs/UAI.png?raw=true)
+![plot](docs/UAI.png)
 
 ### IACS-Inventor template
 **This is IACS non-official inventor template!** 
