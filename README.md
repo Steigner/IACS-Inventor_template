@@ -16,7 +16,7 @@ Follow the steps to integrate into Inventor(save-go):
 5) designe component -> new -> and u are ready to create tech. documenatation
 
 ### Functions
-#### v1.0
+#### v1.01
 * <p align="justify"> iTrigger - In iTrigger can be set Title, Part number, Material, Mass, Half-finished, Assembly, Preccision, Internal edges, External edges, Author, Approved by, Document type, Set title block. lang.[cz/en], Total roughness[0.012-6.3], Sheet format[A0-A4].
 * Sketch symbols - Total roughness[set in iTrigger], Unmachined, Edges[set in iTrigger] </p>
 * Title blocks - ÚAI, IACS
