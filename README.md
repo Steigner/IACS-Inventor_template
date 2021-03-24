@@ -8,8 +8,6 @@
 <p align="justify"> Main purpose of this repository is allow good base for customization inventor template. Template is created and modifed from originaly IMID template, but contain only basics features, more specifics features must be programmed by your taste and needs.
 </p>
 
-### Functions
-
 ### Integration part
 Follow the steps to integrate into Inventor(save-go):
 1) download - ```git clone https://github.com/Steigner/IACS-Inventor_template.git```
@@ -17,6 +15,8 @@ Follow the steps to integrate into Inventor(save-go):
 3) save as template to e.g. *../Inventor/Templates/en-US/..*
 4) restart Inventor
 5) designe component -> new -> and u are ready to create tech. documenatation
+
+### Functions
 
 ### Modification part
 If u want just modifed logo in title block documentation, follow:
